@@ -1,8 +1,4 @@
 // write your code below!
-var name = "Yufeng"
-var holiday = "Independent day"
-var days = 30
-
 function happyHolidays() {
   return 'Happy holidays!'
 }
